@@ -1,0 +1,12 @@
+{
+  "index": "Introduction",
+  "--- documentation": {
+    "title": "Documentation",
+    "type": "separator"
+  },
+  "--- guides": {
+    "title": "Guides",
+    "type": "separator"
+  },
+  "reference": "Reference"
+}
