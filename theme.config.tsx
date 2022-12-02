@@ -17,11 +17,12 @@ const config: DocsThemeConfig = {
   head: (
     <>
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <title>Splashsaver Documentation</title>
       <meta
         name="description"
         content="Our official developers documentation"
       />
-      <meta name="og:title" content="Splashsaver Docs" />
+      <meta name="og:title" content="Splashsaver Documentation" />
     </>
   ),
 };
