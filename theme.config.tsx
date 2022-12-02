@@ -7,7 +7,6 @@ export default {
   prevLinks: true,
   search: null, // customizable, you can use algolia for example
   darkMode: true,
-  footer: true,
   footer: { text: `MIT ${new Date().getFullYear()} © Splashsaver` },
   editLink: { text: "Edit this page on GitHub" },
   logo: (
